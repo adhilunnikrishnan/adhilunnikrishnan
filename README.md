@@ -1,17 +1,17 @@
-<img src="imgage\github profile.png">
+<img src="images\github profile.png">
 
-# <img src="animate\animated\hands.gif" height="40" />**_HEY, I'M ADHIL UNNIKRISHNAN_**
+# <img src="animated\hands.gif" height="40" />**_HEY, I'M ADHIL UNNIKRISHNAN_**
+<img src="animated\javascript.gif" height="40"/> <img src="animated\node.gif" height="40"/> <img src="./svgs/logo-typescript.svg" height="40"/> <img src="./images/react.png" height="40"/><img src="./images/icons8-next.js-144.png" height="40"> <img src="./animated/banner.gif" height="40"/>
 
-<img src="animate\animated\javascript.gif" height="40"/> <img src="animate\animated\node.gif" height="40"/> <img src="./svgs/logo-typescript.svg" height="40"/> <img src="./imgage/react.png" height="40"/> <img src="./animate/animated/banner.gif" height="40"/>
-<img align="right" src="./animate/animated/animation-cartoons.gif" height="200" width="400" />
+<img align="right" src="./animated/animation-cartoons.gif" height="200" width="400" />
 
 ## 🔗Links🫠
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:adhiluunikrishnanofficial@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+7907933057)
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> About Me <img src="./animate/animated/rabbit.gif" height="30" />
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> About Me <img src="./animated/rabbit.gif" height="30" />
 
-<img src="./animate/animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.
+<img src="./animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.
 
  <div align="center" >
 <a  href="https://github.com/adhilunnikrishnan">
@@ -131,4 +131,3 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
-
