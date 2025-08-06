@@ -14,12 +14,25 @@
 
 <img src="./animate/animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.    
  
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhilunnikrishnan&show_icons=true&theme=radical)
-<!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=adhilunnikrishnan&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhilunnikrishnan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhilunnikrishnan&layout=compact&theme=blue-green)
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adhilunnikrishnan&theme=github-compact)
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=adhilunnikrishnan&theme=discord)
+ http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
+ 
+ <div align="center" >
+<a  href="https://github.com/adhilunnikrishnan">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhilunnikrishnan&theme=github" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhilunnikrishnan&theme=github&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhilunnikrishnan&theme=github&exclude={exclude}" width="32.5%">
+
+</a>
+
+<details>
+  <summary>More stats</summary>
+  
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhilunnikrishnan&theme=2077" >
+
+</details>
+
+
 
 # 🛠️ Tech Stack Skills
 
