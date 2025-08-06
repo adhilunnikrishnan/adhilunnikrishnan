@@ -16,16 +16,16 @@
  <div align="center" >
 <a  href="https://github.com/adhilunnikrishnan">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhilunnikrishnan&theme=github" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhilunnikrishnan&theme=github&exclude={exclude}" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhilunnikrishnan&theme=github&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhilunnikrishnan&theme=solarized" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhilunnikrishnan&theme=solarized&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhilunnikrishnan&theme=solarized&exclude={exclude}" width="32.5%">
 
 </a>
 
  <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhilunnikrishnan&theme=2077" >
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhilunnikrishnan&theme=zenburn" >
 
 </details> 
  </div>
