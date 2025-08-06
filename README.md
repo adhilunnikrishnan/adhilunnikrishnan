@@ -22,12 +22,13 @@
 
 </a>
 
-<details>
+ <details>
   <summary>More stats</summary>
   
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhilunnikrishnan&theme=2077" >
 
-</details>
+</details> 
+ </div>
 
 # 🛠️ Tech Stack Skills
 
@@ -130,3 +131,4 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
+
