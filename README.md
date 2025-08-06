@@ -4,7 +4,7 @@
 
 
 <img src="animate\animated\javascript.gif" height="40"/> <img src="animate\animated\node.gif" height="40"/> <img src="./svgs/logo-typescript.svg" height="40"/> <img src="./imgage/react.png" height="40"/> <img src="./animate/animated/banner.gif" height="40"/>
-<img align="right" src="./animate/animated/animation-cartoons.gif" height="160" width="300" />
+<img align="right" src="./animate/animated/animation-cartoons.gif" height="200" width="400" />
 
 ## 🔗Links🫠
 
