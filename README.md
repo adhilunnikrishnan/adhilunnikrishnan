@@ -10,7 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23FF4500.svg?logo=Gmail&logoColor=white)](mailto:adhiluunikrishnanofficial@gmail.com) [![Whatsapp](https://img.shields.io/badge/-WhatsApp-green?logo=WhatsApp&logoColor=white)](https://wa.me/+7907933057)
 
-## 🚀 About Me <img src="./animate/animated/rabbit.gif" height="30" />
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> About Me <img src="./animate/animated/rabbit.gif" height="30" />
 
 <img src="./animate/animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.    
  
@@ -139,4 +139,10 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=adhilunnikrishnan&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
 
