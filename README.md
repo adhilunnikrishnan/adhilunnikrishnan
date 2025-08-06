@@ -2,7 +2,6 @@
 
 # <img src="animate\animated\hands.gif" height="40" />**_HEY, I'M ADHIL UNNIKRISHNAN_**
 
-
 <img src="animate\animated\javascript.gif" height="40"/> <img src="animate\animated\node.gif" height="40"/> <img src="./svgs/logo-typescript.svg" height="40"/> <img src="./imgage/react.png" height="40"/> <img src="./animate/animated/banner.gif" height="40"/>
 <img align="right" src="./animate/animated/animation-cartoons.gif" height="200" width="400" />
 
@@ -12,10 +11,8 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> About Me <img src="./animate/animated/rabbit.gif" height="30" />
 
-<img src="./animate/animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.    
- 
- http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}
- 
+<img src="./animate/animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.
+
  <div align="center" >
 <a  href="https://github.com/adhilunnikrishnan">
 
@@ -32,12 +29,9 @@
 
 </details>
 
-
-
 # 🛠️ Tech Stack Skills
 
 ### 💻 Operating Systems
-style=flat&logo=react&logoColor=%2361DAFB)
 
 ![Windows](https://img.shields.io/badge/windows-%230769AD.svg?flat=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?flat=for-the-badge&logo=ubuntu&logoColor=white)
@@ -85,20 +79,12 @@ style=flat&logo=react&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?flat=for-the-badge&logo=rest-api&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-%234095F6.svg?flat=for-the-badge&logo=websockets&logoColor=white)
 
-<!-- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?flat=for-the-badge&logo=laravel&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%2300515A.svg?flat=for-the-badge&logo=dotnet&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?flat=for-the-badge&logo=graphql&logoColor=white) -->
-
 ### 💻 Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?flat=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?flat=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?flat=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?flat=for-the-badge&logo=firebase&logoColor=black)
-
-<!-- ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?flat=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?flat=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-%2300A0D1.svg?flat=for-the-badge&logo=neo4j&logoColor=white) -->
 
 ### 💻 Testing
 
@@ -107,11 +93,6 @@ style=flat&logo=react&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?flat=for-the-badge&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?flat=for-the-badge&logo=postman&logoColor=white)
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-%23006DFF.svg?flat=for-the-badge&logo=hoppscotch&logoColor=white)
-
-<!-- ![Mocha](https://img.shields.io/badge/Mocha-%238D6748.svg?flat=for-the-badge&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/Chai-%23A30701.svg?flat=for-the-badge&logo=chai&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?flat=for-the-badge&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-%23327A1E.svg?flat=for-the-badge&logo=cucumber&logoColor=white) -->
 
 ### 💻 DevOps
 
@@ -142,8 +123,6 @@ style=flat&logo=react&logoColor=%2361DAFB)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?flat=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?flat=for-the-badge&logo=eclipse&logoColor=white)
 
-
-
 [![](https://visitcount.itsvg.in/api?id=adhilunnikrishnan&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
@@ -151,4 +130,3 @@ style=flat&logo=react&logoColor=%2361DAFB)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
-
