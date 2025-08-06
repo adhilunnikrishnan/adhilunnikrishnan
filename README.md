@@ -2,7 +2,9 @@
 
 # <img src="animate\animated\hands.gif" height="40" />**_HEY, I'M ADHIL UNNIKRISHNAN_**
 
+
 <img src="animate\animated\javascript.gif" height="40"/> <img src="animate\animated\node.gif" height="40"/> <img src="./svgs/logo-typescript.svg" height="40"/> <img src="./imgage/react.png" height="40"/> <img src="./animate/animated/banner.gif" height="40"/>
+<img align="right" src="./animate/animated/animation-cartoons.gif" height="160" width="300" />
 
 ## 🔗Links🫠
 
@@ -10,9 +12,9 @@
 
 ## 🚀 About Me <img src="./animate/animated/rabbit.gif" height="30" />
 
-<img src="./animate/animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhilunnikrishnan&show_icons=true&theme=radical)
+<img src="./animate/animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.    
+ 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhilunnikrishnan&show_icons=true&theme=radical)
 <!-- ![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=adhilunnikrishnan&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adhilunnikrishnan&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adhilunnikrishnan&layout=compact&theme=blue-green)
