@@ -124,7 +124,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?flat=for-the-badge&logo=intellijidea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?flat=for-the-badge&logo=eclipse&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=adhilunnikrishnan&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=adhilunnikrishnan&pretty=true)](https://visitcount.itsvg.in)
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
