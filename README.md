@@ -1,7 +1,8 @@
 <img src="images\github profile.png">
 
 # <img src="animated\hands.gif" height="40" />**_HEY, I'M ADHIL UNNIKRISHNAN_**
-<img src="animated\javascript.gif" height="40"/> <img src="animated\node.gif" height="40"/> <img src="./svgs/logo-typescript.svg" height="40"/> <img src="./images/react.png" height="40"/><img src="./images/icons8-next.js-144.png" height="40"> <img src="./animated/banner.gif" height="40"/>
+
+<img src="animated\javascript.gif" height="40"/>&nbsp;<img src="animated\node.gif" height="40"/>&nbsp;<img src="./svgs/logo-typescript.svg" height="40"/>&nbsp;<img src="./images/react.png" height="40"/><img src="./images/icons8-next.js-144.png" height="40">&nbsp;<img src="./animated/banner.gif" height="40"/>
 
 <img align="right" src="./animated/animation-cartoons.gif" height="200" width="400" />
 
@@ -35,6 +36,7 @@
 ### 💻 Operating Systems
 
 ![Windows](https://img.shields.io/badge/windows-%230769AD.svg?flat=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%2307405e.svg?flat=for-the-badge&logo=Linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?flat=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 💻 Languages
