@@ -14,7 +14,7 @@
 
 <img src="./animated/light_1.gif" height="20px" />Hi! I'm Adhil Unnikrishnan, a beginner web developer passionate about building full-stack applications.
 
- <div align="center" >
+ <div align="left" >
 <a  href="https://github.com/adhilunnikrishnan">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhilunnikrishnan&theme=solarized" width="32.5%">
