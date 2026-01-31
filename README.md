@@ -3,7 +3,7 @@
 <h1 align="center"><i>Hi there, I'm</i> <a href="https://adhilunnikrisnan.vercel.app/">Adhil Unnikrishnan</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
-### � Full-Stack Developer | 🚀 Software Engineer | 👨‍💻 Freelancer
+### 💻 Full-Stack Developer | 🚀 Software Engineer | 👨‍💻 Freelancer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhilunnikrishnan/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adhilunnikrisnan.vercel.app/)
@@ -70,17 +70,17 @@
 <div  >
 <a  href="https://github.com/adhilunnikrishnan">
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhilunnikrishnan&theme=2077" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhilunnikrishnan&theme=2077&exclude={exclude}" width="32.5%" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adhilunnikrishnan&theme=solarized" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adhilunnikrishnan&theme=solarized&exclude={exclude}" width="32.5%" >
 </div>
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhilunnikrishnan&theme=2077&exclude={exclude}" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adhilunnikrishnan&theme=2077&utcOffset=+05.30" width="32.5%" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adhilunnikrishnan&theme=solarized&exclude={exclude}" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adhilunnikrishnan&theme=solarized&utcOffset=+05.30" width="32.5%" >
 </div>
 </a>
 <details>
   <summary>More stats</summary>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhilunnikrishnan&theme=2077" >
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adhilunnikrishnan&theme=zenburn" >
 </details>
 </div>
 
@@ -89,3 +89,9 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with fellow developers</b> and tech enthusiasts! Feel free to say <b>hi</b> — I'm always open to learning and collaboration :)</em>
 
 ---
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
+
