@@ -94,6 +94,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 03e8f9a692f147fb5f091154353bba54a6646dfe
