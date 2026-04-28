@@ -5,11 +5,7 @@
 
 ### 💻 Full-Stack Developer | 🚀 Software Engineer | 👨‍💻 Freelancer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhilunnikrishnan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.adhilunnikrishnan.in/)
-[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1ltajrn4wgaFUQgkepCVWRzJMEgtnOIT8/view?usp=sharing)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhiluunikrishnanofficial@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+7907933057)
+
 
 </div>
 
